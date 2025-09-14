@@ -6,8 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Para Classess",
-  description: "Master new skills, track your progress, and achieve your learning goals with Para Classess.",
+  title: "Para Classes",
+  description: "Master new skills, track your progress, and achieve your learning goals with Para Classes.",
   icons: {
     icon: [
       {
@@ -35,13 +35,13 @@ export default function RootLayout({
       localization={{
         signIn: {
           start: {
-            title: "Sign in to Para Classess",
+            title: "Sign in to Para Classes",
             subtitle: "to continue to your learning dashboard"
           }
         },
         signUp: {
           start: {
-            title: "Create your Para Classess account",
+            title: "Create your Para Classes account",
             subtitle: "to start your learning journey"
           }
         }

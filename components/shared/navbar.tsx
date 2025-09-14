@@ -7,7 +7,7 @@ interface NavbarProps {
   title?: string;
 }
 
-export function Navbar({ title = "Para Classess" }: NavbarProps) {
+export function Navbar({ title = "Para Classes" }: NavbarProps) {
   const pathname = usePathname();
 
   const routes = [

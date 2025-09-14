@@ -1,8 +1,8 @@
-# Para Classess
+# Para Classes
 
 ![Next.js](https://img.shields.io/badge/Next.js-14.0.0-blue?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue?style=flat-square&logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.0-blue?style=flat-square&logo=tailwind-css) ![Clerk](https://img.shields.io/badge/Clerk-Authentication-blue?style=flat-square&logo=clerk) ![Node.js](https://img.shields.io/badge/Node.js-18.0.0-green?style=flat-square&logo=node.js) ![Vercel](https://img.shields.io/badge/Vercel-Hosting-black?style=flat-square&logo=vercel) ![React](https://img.shields.io/badge/React-18.0.0-blue?style=flat-square&logo=react) ![PostCSS](https://img.shields.io/badge/PostCSS-CSS%20Processing-red?style=flat-square&logo=postcss) ![Serverless](https://img.shields.io/badge/Serverless-Functions-orange?style=flat-square&logo=serverless)
 
-A professional-grade Learning Management System (LMS) built with modern web technologies. Para Classess is designed to provide a seamless and secure learning experience for users, featuring robust authentication, interactive course management, and comprehensive progress tracking.
+A professional-grade Learning Management System (LMS) built with modern web technologies. Para Classes is designed to provide a seamless and secure learning experience for users, featuring robust authentication, interactive course management, and comprehensive progress tracking.
 
 ### Live URL
 
@@ -16,7 +16,7 @@ A professional-grade Learning Management System (LMS) built with modern web tech
 <div align="center">
   <img src="assets/images/img-landing.png" alt="Landing Page" width="600" />
 </div>
-<p>The main entry point to Para Classess, showcasing its features and inviting users to sign up or log in.</p>
+<p>The main entry point to Para Classes, showcasing its features and inviting users to sign up or log in.</p>
 
 ### Sign-Up Page
 <div align="center">
@@ -89,7 +89,7 @@ A professional-grade Learning Management System (LMS) built with modern web tech
 
 ## How It Works
 
-Para Classess is a full-stack web application leveraging the following technologies:
+Para Classes is a full-stack web application leveraging the following technologies:
 - **Next.js**: For server-side rendering and file-based routing.
 - **TypeScript**: Ensures type safety and better developer experience.
 - **Tailwind CSS**: Provides utility-first styling for rapid UI development.
@@ -128,13 +128,13 @@ Para Classess is a full-stack web application leveraging the following technolog
 
 ## Deployment
 
-Para Classess is deployed on Vercel, a platform optimized for Next.js applications. Vercel provides seamless integration with GitHub, automatic deployments, and serverless functions.
+Para Classes is deployed on Vercel, a platform optimized for Next.js applications. Vercel provides seamless integration with GitHub, automatic deployments, and serverless functions.
 
 ### Live Demo
 
 You can access the live application here:
 
-[Para Classess Dashboard](https://learnify-new-1.vercel.app/dashboard){:target="_blank"}
+[Para Classes Dashboard](https://learnify-new-1.vercel.app/dashboard){:target="_blank"}
 
 ### Hosting Details
 
