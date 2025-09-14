@@ -6,8 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Learnify",
-  description: "Master new skills, track your progress, and achieve your learning goals with Learnify.",
+  title: "Para Classess",
+  description: "Master new skills, track your progress, and achieve your learning goals with Para Classess.",
   icons: {
     icon: [
       {
@@ -35,13 +35,13 @@ export default function RootLayout({
       localization={{
         signIn: {
           start: {
-            title: "Sign in to Learnify",
+            title: "Sign in to Para Classess",
             subtitle: "to continue to your learning dashboard"
           }
         },
         signUp: {
           start: {
-            title: "Create your Learnify account",
+            title: "Create your Para Classess account",
             subtitle: "to start your learning journey"
           }
         }
